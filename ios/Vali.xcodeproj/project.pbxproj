@@ -13,6 +13,7 @@
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		1FD3BC8DA212465E88D778CA /* SFUIText-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 698F173901C94612B970A983 /* SFUIText-Bold.ttf */; };
+		2919594A57F24442BE1597F3 /* AntDesign.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FA756C2DE0B64BC086D24DA0 /* AntDesign.ttf */; };
 		50AF98091B404652A1F031D8 /* SFUIText-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2E5A4CEA46B84476BD9803C5 /* SFUIText-Regular.ttf */; };
 		7699B88040F8A987B510C191 /* libPods-Vali-ValiTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-Vali-ValiTests.a */; };
 		790C88F40591420D8321A21A /* SFUIText-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 58F02779C1B5413FBD7DB964 /* SFUIText-Italic.ttf */; };
@@ -52,6 +53,7 @@
 		89C6BE57DB24E9ADA2F236DE /* Pods-Vali-ValiTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Vali-ValiTests.release.xcconfig"; path = "Target Support Files/Pods-Vali-ValiTests/Pods-Vali-ValiTests.release.xcconfig"; sourceTree = "<group>"; };
 		E4993AD6193F46268B85187E /* SFUIText-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SFUIText-Medium.ttf"; path = "../src/assets/fonts/SFUIText-Medium.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		FA756C2DE0B64BC086D24DA0 /* AntDesign.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = AntDesign.ttf; path = ../src/assets/fonts/AntDesign.ttf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -164,6 +166,7 @@
 				58F02779C1B5413FBD7DB964 /* SFUIText-Italic.ttf */,
 				E4993AD6193F46268B85187E /* SFUIText-Medium.ttf */,
 				2E5A4CEA46B84476BD9803C5 /* SFUIText-Regular.ttf */,
+				FA756C2DE0B64BC086D24DA0 /* AntDesign.ttf */,
 			);
 			name = Resources;
 			path = "";
@@ -269,6 +272,7 @@
 				790C88F40591420D8321A21A /* SFUIText-Italic.ttf in Resources */,
 				8018F6BFBF6846528DB46A27 /* SFUIText-Medium.ttf in Resources */,
 				50AF98091B404652A1F031D8 /* SFUIText-Regular.ttf in Resources */,
+				2919594A57F24442BE1597F3 /* AntDesign.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
